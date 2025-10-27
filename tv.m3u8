@@ -1,6 +1,8 @@
 #EXTM3U @LaQuay https://github.com/LaQuay/TDTChannels
 #EXTM3U url-tvg="https://www.tdtchannels.com/epg/TV.xml.gz"
 
+#EXTINF:-1 channelId=\"1954\" , Canal de las Estrellas
+http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
 #EXTINF:-1,A&E HD
 http://181.78.85.53:9002/play/a047/index.m3u8
 #EXTINF:-1,AMC HD
